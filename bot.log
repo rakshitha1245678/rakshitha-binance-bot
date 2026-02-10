@@ -1,0 +1,8 @@
+2026-02-10 23:32:42,525 | INFO | Market order placed: {}
+2026-02-10 23:34:24,253 | INFO | Limit order placed: {}
+2026-02-10 23:46:36,474 | INFO | Stop-Limit order placed: {}
+2026-02-10 23:47:32,194 | INFO | TWAP slice 1/5: {}
+2026-02-10 23:47:42,702 | INFO | TWAP slice 2/5: {}
+2026-02-10 23:47:53,242 | INFO | TWAP slice 3/5: {}
+2026-02-10 23:48:03,795 | INFO | TWAP slice 4/5: {}
+2026-02-10 23:48:14,047 | INFO | TWAP slice 5/5: {}
