@@ -109,28 +109,5 @@ Order examples
 
 Log samples
 
-Explanation of strategies
+Explanation of strategies.
 
-
----
-
-# ✅ What you just achieved with this README
-
-✔ Clear setup  
-✔ Reproducible steps  
-✔ CLI examples  
-✔ Matches assignment exactly  
-✔ Easy **10% marks**
-
----
-
-## 🟢 NEXT (Last steps remaining)
-
-Only **2 things left**:
-1. `report.pdf` (screenshots + explanation)
-2. Zip + GitHub submission
-
-Reply with **one word**:
-👉 **`report`** or **`final submission`**
-
-We’ll finish this cleanly 💪
